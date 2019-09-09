@@ -1,0 +1,10 @@
+h1 {
+  color: #cc0000;
+}
+
+button {
+  position: absolute;
+
+  top: 143px;
+  left: 60px;
+}
